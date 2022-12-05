@@ -650,6 +650,7 @@ dtb-$(CONFIG_MACH_SUN8I_H3) += \
 	sun8i-h3-bananapi-m2-plus-v1.2.dtb \
 	sun8i-h3-beelink-x2.dtb \
 	sun8i-h3-emlid-neutis-n5h3-devboard.dtb \
+	sun8i-h3-hibari-p.dtb \
 	sun8i-h3-libretech-all-h3-cc.dtb \
 	sun8i-h3-mapleboard-mp130.dtb \
 	sun8i-h3-nanopi-duo2.dtb \
